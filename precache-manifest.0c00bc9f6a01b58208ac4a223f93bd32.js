@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ce3dbdaec4c2c2d95f96a5c5f4bb7ae2",
+    "revision": "f824eff9c44737c5a963f07af02f0b76",
     "url": "/story-points/index.html"
   },
   {

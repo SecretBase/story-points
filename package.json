@@ -23,6 +23,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "homepage": "https://secretbase.github.io/story-points",
   "browserslist": {
     "production": [
       ">0.2%",

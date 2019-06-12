@@ -25,15 +25,15 @@ const App = () => {
   const ippd =
     completeStoryPoints /
     (lastSprintWorkingDays -
-      (parseInt(lastSprintHoliday, 10) + parseInt(leaveDays, 10) / teamSize)) /
+      (parseFloat(lastSprintHoliday) + parseFloat(leaveDays) / teamSize)) /
     teamSize;
 
   const nextSprintCommitment =
     ippd *
     nextTeamSize *
     (nextSprintWorkingDays -
-      (parseInt(nextSprintHoliday, 10) +
-        parseInt(nextLeaveDays, 10) / nextTeamSize));
+      (parseFloat(nextSprintHoliday) +
+        parseFloat(nextLeaveDays) / nextTeamSize));
 
   return (
     <Container>

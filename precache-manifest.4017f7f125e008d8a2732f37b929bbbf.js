@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6756d0a32831e02aaddd27855b4f546a",
+    "revision": "072489acfc6f7effb62ea5edb5282b34",
     "url": "/story-points/index.html"
   },
   {
-    "revision": "f4a898dbac2efcbcd748",
-    "url": "/story-points/static/js/2.c049318b.chunk.js"
+    "revision": "78786d033d225c677888",
+    "url": "/story-points/static/js/2.095e4833.chunk.js"
   },
   {
     "revision": "5dcfcbe599892f825447",

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "564dabdbb5b81031fd543385cf44f9f1",
+    "revision": "6187d0fe3640571daed9b236938fdf6f",
     "url": "/story-points/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/story-points/static/js/2.1a96960b.chunk.js.LICENSE"
   },
   {
-    "revision": "6dd28bcd80e68f5d7308",
-    "url": "/story-points/static/js/main.5a816101.chunk.js"
+    "revision": "582d9610573815dba558",
+    "url": "/story-points/static/js/main.d165cadb.chunk.js"
   },
   {
     "revision": "f9874a451b1a0b2c9682",

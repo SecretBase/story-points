@@ -10,7 +10,7 @@
     "styled-meow": "1.6.0"
   },
   "devDependencies": {
-    "gh-pages": "2.2.0",
+    "gh-pages": "6.1.1",
     "react-scripts": "3.4.3"
   },
   "scripts": {
